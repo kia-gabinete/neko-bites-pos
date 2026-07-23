@@ -1,7 +1,7 @@
+import Layout from "./components/Layout/Layout";
+
 function App() {
-  return (
-    <h1>Neko Bites POS</h1>
-  );
+  return <Layout />;
 }
 
 export default App;

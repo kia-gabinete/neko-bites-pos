@@ -1,0 +1,58 @@
+:root {
+  /* ===== Colores principales ===== */
+
+  --color-primary: #F6B8C8;
+  --color-primary-hover: #E98BA5;
+  --color-primary-light: #FAD7E0;
+
+  /* ===== Fondos ===== */
+
+  --color-background: #FFF8F5;
+  --color-surface: #FFFFFF;
+  --color-surface-secondary: #FDF3EE;
+
+  /* ===== Marrones ===== */
+
+  --color-brown: #8B5E4B;
+  --color-brown-dark: #6D4C41;
+
+  /* ===== Texto ===== */
+
+  --color-text: #3D3D3D;
+  --color-text-light: #7A7A7A;
+
+  /* ===== Bordes ===== */
+
+  --color-border: #F1E4DF;
+
+  /* ===== Estados ===== */
+
+  --color-success: #6FCF97;
+  --color-warning: #F2C94C;
+  --color-danger: #EB5757;
+  --color-info: #56CCF2;
+
+  /* ===== Sombras ===== */
+
+  --shadow-sm: 0 2px 8px rgba(0,0,0,.05);
+  --shadow-md: 0 6px 20px rgba(0,0,0,.08);
+  --shadow-lg: 0 12px 30px rgba(0,0,0,.12);
+
+  /* ===== Bordes redondeados ===== */
+
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+
+  /* ===== Sidebar ===== */
+
+  --sidebar-width: 260px;
+
+  /* ===== Topbar ===== */
+
+  --topbar-height: 80px;
+
+  /* ===== Transiciones ===== */
+
+  --transition: .25s ease;
+}
